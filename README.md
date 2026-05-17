@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on building my Developer Portfolio <br>I'm looking to collaborate on Java & Web Development projects<br>I;m currently learning Java, Spring Boot, React & DSA<br>
+I'm currently working on building my Developer Portfolio <br>I'm looking to collaborate on Java & Web Development projects<br>I'm currently learning Java, Spring Boot, React & DSA<br>
 
 
 ## 🌐 Socials:
