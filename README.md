@@ -25,7 +25,7 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 # 🏆 Certifications & Highlights:
-- ** Microsoft Certified:**
+- **Microsoft Certified:**
   - Azure Administrator Associate (`AZ-104`)
   - Azure AI Engineer Associate (`AI-103`)
   - Azure Fundamentals (`AZ-900`)
